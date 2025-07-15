@@ -24,5 +24,6 @@ Hello, my name is Arya. I am an emerging Data Scientist with a strong foundation
 ### Tools
 * Languages: Python, R, SQL
 * Software: Axure, Bioconductor, Bitbucket, Docker, Excel, Jupyter Notebook, Limma, MongoDB, 
-MySQL, PowerBI, PuTTY, PyCharm, PyTorch, RStudio, Scikit-Learn, Tableau, TensorFlow, WinSCP 
+MySQL, PuTTY, PyCharm, PyTorch, RStudio, Scikit-Learn, TensorFlow, WinSCP
+* Visualization: Matplotib, PowerBI, Seaborn, Tableau
 
