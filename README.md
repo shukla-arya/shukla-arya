@@ -15,12 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, my name is Arya. I am an emerging data scientist with expertise in data analysis and machine learning (ML) along with a growing interest in bioinforamtics.
+Hello, my name is Arya. I am an emerging Data Scientist with a strong foundation in data analysis and machine learning (ML), and a growing passion for bioinformatics.
 
-* Algorithmic implenentation of supervised and unsupervised ML techniques
-* Efficient, meticulous cleaning and exploratory analysis of datasets
-* Visualization development with Tableau and PowerBI
-
+* Master’s, Data Science from Northeastern University with strong computational experience
+* Passionate about data-driven solutions for positive societal impact
+* Unmatched combination of grit and interpersonal skills
+  
 ### Tools
+* Languages: Python, R, SQL
+* Software: Axure, Bioconductor, Bitbucket, Docker, Excel, Jupyter Notebook, Limma, MongoDB, 
+MySQL, PowerBI, PuTTY, PyCharm, PyTorch, RStudio, Scikit-Learn, Tableau, TensorFlow, WinSCP 
 
-### Connections
