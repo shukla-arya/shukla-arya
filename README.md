@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello, my name is Arya. I am an emerging data scientist with expertise in data analysis and machine learning (ML) along with a growing interest in bioinforamtics.
+
+* Algorithmic implenentation of supervised and unsupervised ML techniques
+* Efficient, meticulous cleaning and exploratory analysis of datasets
+* Visualization development with Tableau and PowerBI
+
+### Tools
+
+### Connections
