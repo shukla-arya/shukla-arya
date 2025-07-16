@@ -1,4 +1,4 @@
-## Hello World, I'm Arya.
+## 👋 Hello World, I'm Arya.
 
 <!--
 **shukla-arya/shukla-arya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,19 +21,19 @@ Hello, my name is Arya. I am an emerging Data Scientist with a strong foundation
 * Passionate about data-driven solutions for positive societal impact
 * Unmatched combination of grit and interpersonal skills
   
-### Tools
+### 🧰 Tools
 * **Languages**: Python, R, SQL
 * **Software**: Axure, Bioconductor, Bitbucket, Docker, Excel, Jupyter Notebook, Limma, MongoDB, 
 MySQL, PuTTY, PyCharm, PyTorch, RStudio, Scikit-Learn, TensorFlow, WinSCP
 * **Visualization**: Matplotib, PowerBI, Seaborn, Tableau
 
-### Professional Experience
+### 🗃️ Professional Experience
 * Incoming Machine Learning Engineering Intern @ Mount Sinai
 * Bioinformatics Co-op @ Regeneron
 * Data, AI, and Genomic Sciences Intern @ Merck
 * Data Science Intern @ GlaxoSmithKline
 
-### Let's Connect
+### 🤝 Let's Connect
 * [LinkedIn](https://www.linkedin.com/in/arya-a-shukla)
 * Read my article on [NUSci Magazine](https://nuscimagazine.com/opinion-the-need-to-tackle-bias-in-the-sphere-of-artificial-intelligence/)
 
