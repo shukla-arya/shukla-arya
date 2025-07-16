@@ -35,4 +35,5 @@ MySQL, PuTTY, PyCharm, PyTorch, RStudio, Scikit-Learn, TensorFlow, WinSCP
 
 ### Let's Connect
 * [LinkedIn](https://www.linkedin.com/in/arya-a-shukla)
+* Read my article on [NUSci Magazine](https://nuscimagazine.com/opinion-the-need-to-tackle-bias-in-the-sphere-of-artificial-intelligence/)
 
