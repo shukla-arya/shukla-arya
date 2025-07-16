@@ -27,3 +27,6 @@ Hello, my name is Arya. I am an emerging Data Scientist with a strong foundation
 MySQL, PuTTY, PyCharm, PyTorch, RStudio, Scikit-Learn, TensorFlow, WinSCP
 * **Visualization**: Matplotib, PowerBI, Seaborn, Tableau
 
+### Let Us Connect
+* [LinkedIn](https://www.linkedin.com/in/arya-a-shukla)
+
