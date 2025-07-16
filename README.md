@@ -27,6 +27,12 @@ Hello, my name is Arya. I am an emerging Data Scientist with a strong foundation
 MySQL, PuTTY, PyCharm, PyTorch, RStudio, Scikit-Learn, TensorFlow, WinSCP
 * **Visualization**: Matplotib, PowerBI, Seaborn, Tableau
 
-### Let Us Connect
+### Professional Experience
+* Incoming Machine Learning Engineering Intern @ Mount Sinai
+* Bioinformatics Co-op @ Regeneron
+* Data, AI, and Genomic Sciences Intern @ Merck
+* Data Science Intern @ GlaxoSmithKline
+
+### Let's Connect
 * [LinkedIn](https://www.linkedin.com/in/arya-a-shukla)
 
