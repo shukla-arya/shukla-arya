@@ -34,6 +34,6 @@ MySQL, PuTTY, PyCharm, PyTorch, RStudio, Scikit-Learn, TensorFlow, WinSCP
 * Data Science Intern @ GlaxoSmithKline
 
 ### 🤝 Let's Connect
-* [LinkedIn](www.linkedin.com/in/arya-a-shukla)
+* [LinkedIn](https://www.linkedin.com/in/arya-a-shukla)
 * Read my article on [NUSci Magazine](https://nuscimagazine.com/opinion-the-need-to-tackle-bias-in-the-sphere-of-artificial-intelligence/)
 
