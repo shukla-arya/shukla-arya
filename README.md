@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, my name is Arya. I am a Data Scientist with a strong foundation in data analysis, machine learning (ML), and a growing passion for bioinformatics.
+Hello, my name is Arya. I am a Data Scientist with a strong foundation in data analysis, machine learning (ML), and a growing passion for healthcare and bioinformatics.
 
 * Master’s, Data Science from Northeastern University with strong computational experience
 * Passionate about data-driven solutions for positive societal impact
